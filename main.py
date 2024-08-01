@@ -9,7 +9,7 @@ responseData = sms.send_message(
     {
         "from": "Muhammadali",
         "to": "998919226296",
-        "text": "Salom manga Ishoning",
+        "text": "Hello My name is Muhammadali",
     }
 )
 
